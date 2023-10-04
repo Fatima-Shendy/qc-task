@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-04T19:45:59 GST" name="Default suite" finished-at="2023-10-04T19:46:02 GST" duration-ms="3610">
+    <groups>
+    </groups>
+    <test started-at="2023-10-04T19:45:59 GST" name="Default test" finished-at="2023-10-04T19:46:02 GST" duration-ms="3610">
+      <class name="com.playground.api.test.Stores">
+        <test-method signature="create_store()[pri:0, instance:com.playground.api.test.Stores@58d75e99]" started-at="2023-10-04T19:45:59 GST" name="create_store" finished-at="2023-10-04T19:46:01 GST" duration-ms="2075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_store -->
+        <test-method signature="get_paginated_stores()[pri:0, instance:com.playground.api.test.Stores@58d75e99]" started-at="2023-10-04T19:46:01 GST" name="get_paginated_stores" finished-at="2023-10-04T19:46:01 GST" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_paginated_stores -->
+        <test-method signature="get_store_by_id()[pri:0, instance:com.playground.api.test.Stores@58d75e99]" started-at="2023-10-04T19:46:01 GST" name="get_store_by_id" finished-at="2023-10-04T19:46:02 GST" duration-ms="898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_store_by_id -->
+        <test-method signature="get_stores()[pri:0, instance:com.playground.api.test.Stores@58d75e99]" started-at="2023-10-04T19:46:02 GST" name="get_stores" finished-at="2023-10-04T19:46:02 GST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_stores -->
+        <test-method signature="get_storet_by_id_and_name()[pri:0, instance:com.playground.api.test.Stores@58d75e99]" started-at="2023-10-04T19:46:02 GST" name="get_storet_by_id_and_name" finished-at="2023-10-04T19:46:02 GST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_storet_by_id_and_name -->
+        <test-method signature="search_by_near_stores()[pri:0, instance:com.playground.api.test.Stores@58d75e99]" started-at="2023-10-04T19:46:02 GST" name="search_by_near_stores" finished-at="2023-10-04T19:46:02 GST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_by_near_stores -->
+        <test-method signature="search_by_stores_name_partially()[pri:0, instance:com.playground.api.test.Stores@58d75e99]" started-at="2023-10-04T19:46:02 GST" name="search_by_stores_name_partially" finished-at="2023-10-04T19:46:02 GST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_by_stores_name_partially -->
+        <test-method signature="search_by_stores_properties()[pri:0, instance:com.playground.api.test.Stores@58d75e99]" started-at="2023-10-04T19:46:02 GST" name="search_by_stores_properties" finished-at="2023-10-04T19:46:02 GST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_by_stores_properties -->
+        <test-method signature="search_by_stores_service_1()[pri:0, instance:com.playground.api.test.Stores@58d75e99]" started-at="2023-10-04T19:46:02 GST" name="search_by_stores_service_1" finished-at="2023-10-04T19:46:02 GST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_by_stores_service_1 -->
+        <test-method signature="search_by_stores_service_2()[pri:0, instance:com.playground.api.test.Stores@58d75e99]" started-at="2023-10-04T19:46:02 GST" name="search_by_stores_service_2" finished-at="2023-10-04T19:46:02 GST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_by_stores_service_2 -->
+        <test-method signature="store_not_found()[pri:0, instance:com.playground.api.test.Stores@58d75e99]" started-at="2023-10-04T19:46:02 GST" name="store_not_found" finished-at="2023-10-04T19:46:02 GST" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- store_not_found -->
+        <test-method signature="stores_required_fields()[pri:0, instance:com.playground.api.test.Stores@58d75e99]" started-at="2023-10-04T19:46:02 GST" name="stores_required_fields" finished-at="2023-10-04T19:46:02 GST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stores_required_fields -->
+      </class> <!-- com.playground.api.test.Stores -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

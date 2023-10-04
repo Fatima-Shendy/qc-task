@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-04T06:33:40 GST" name="Default suite" finished-at="2023-10-04T06:34:29 GST" duration-ms="49249">
+    <groups>
+    </groups>
+    <test started-at="2023-10-04T06:33:40 GST" name="Default test" finished-at="2023-10-04T06:34:29 GST" duration-ms="49249">
+      <class name="com.facebook.automation.test.SignUp">
+        <test-method is-config="true" signature="open_browser()[pri:0, instance:com.facebook.automation.test.SignUp@17f62e33]" started-at="2023-10-04T06:33:40 GST" name="open_browser" finished-at="2023-10-04T06:33:45 GST" duration-ms="5080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method signature="signup_failed_empty_form()[pri:0, instance:com.facebook.automation.test.SignUp@17f62e33]" started-at="2023-10-04T06:33:45 GST" name="signup_failed_empty_form" finished-at="2023-10-04T06:33:45 GST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup_failed_empty_form -->
+        <test-method signature="signup_success_form()[pri:0, instance:com.facebook.automation.test.SignUp@17f62e33]" started-at="2023-10-04T06:33:45 GST" name="signup_success_form" finished-at="2023-10-04T06:34:29 GST" duration-ms="44102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup_success_form -->
+      </class> <!-- com.facebook.automation.test.SignUp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
